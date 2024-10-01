@@ -2,6 +2,12 @@
 
 An interactive Streamlit app designed to explore key statistical concepts such as Z-scores, normal distributions, and the Central Limit Theorem (CLT). This app allows users to visualize the effects of changing mean, standard deviation, and sample size on various probability distributions, making it an excellent learning tool for students, educators, and anyone interested in statistics.
 
+## 🌐 Try It Out Now!
+
+You can access the live version of the app directly by clicking the link below:
+
+[**Launch the App**](https://z-score-viz.streamlit.app)
+
 ## 🚀 Features
 
 - **Z-Score Calculator**: Compute Z-scores based on custom inputs for mean and standard deviation.
@@ -43,3 +49,12 @@ To run this app locally, follow these steps:
    ```bash
    git clone https://github.com/AkhilByteWrangler/zscore-visualize.git
    ```
+2. Navigate to the project directory:
+   ```bash
+   cd zscore-visualizer
+   ```
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
